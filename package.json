@@ -1,5 +1,5 @@
 {
-  "name": "sendevent",
+  "name": "@pingy/sendevent",
   "version": "1.0.4",
   "description": "Middleware for server-sent-events with iframe fallback",
   "keywords": [
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/fgnass/sendevent.git"
+    "url": "http://github.com/pingyhq/sendevent.git"
   },
   "main": "index.js",
   "browser": "client.js",
